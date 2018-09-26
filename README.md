@@ -11,3 +11,7 @@ An assignment I made for a Computer Graphics elective course, using C++ with Ope
 - Press the 'space' button to activate the Cyclic-Coordinate Descent algorithm, in which the chain will *try* to reach the destination cube.
 Be aware that the CCD algorithm is somewhat limited and may fail in some rare cases
 (it is an inherent limitation of the algortihm, at least as I was taught in the course) 
+
+
+![](Screenshot_1.png)
+![](Screenshot_2.png)
