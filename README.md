@@ -10,7 +10,7 @@ An assignment I made for a Computer Graphics elective course, using C++ with Ope
 - Click the chain or the destination cube, and scroll to move the chain/cube closer or far away from the viewer.
 - Press the 'space' button to activate the Cyclic-Coordinate Descent algorithm, in which the chain will *try* to reach the destination cube.
 Be aware that the CCD algorithm is somewhat limited and may fail in some rare cases
-(it is an inherent limitation of the algortihm, at least as I was taught in the course) 
+(it is an inherent limitation of the algortihm) 
 
 
 ![](Screenshot_1.png)
